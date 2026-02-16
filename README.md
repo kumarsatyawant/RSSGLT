@@ -34,6 +34,13 @@ Quantitative result on LoveDA test dataset:
   Fig. 2. The qualitative prediction results of the RSSGLT on the LoveDA test dataset.
 </p>
 
+<p align="center">
+  <img src="figures/3_LoveDA.jpg" alt="The qualitative prediction results" /><br/>
+  Fig. 3. The qualitative prediction results of the RSSGLT copared with <a href="https://www.sciencedirect.com/science/article/abs/pii/S0924271622001654" target="_blank" rel="noopener noreferrer">UNetFormer</a> on the LoveDA test dataset. The regions marked with black boxes represent better prediction results of the RSSGLT.
+</p>
+
+
+
 Quantitative result on Potsdam test dataset:
 
 |Impervious surface | Building | Low vegetation | Tree   | Car     | Mean F1 (%)  | OA (%)  | mIou (%) |
@@ -42,8 +49,8 @@ Quantitative result on Potsdam test dataset:
 
 
 <p align="center">
-  <img src="figures/3_Potsdam.jpg" alt="The qualitative prediction results" /><br>
-  Fig. 3. The qualitative prediction results of the RSSGLT on the Potsdam test dataset.
+  <img src="figures/4_Potsdam.jpg" alt="The qualitative prediction results" /><br>
+  Fig. 4. The qualitative prediction results of the RSSGLT on the Potsdam test dataset.
 </p>
 
 
