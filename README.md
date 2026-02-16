@@ -11,9 +11,13 @@ Our work can be seen in the [RSSGLT: Remote Sensing Image Segmentation Network b
 
 Network:
 ------- 
-![Network](figures/1_Overall_Framework.jpg)  
-Fig. 1. The schematic representation of the proposed encoder-decoder-based
-remote sensing image segmentation network, RSSGLT.
+
+<figure style="margin:0">
+  <img src="figures/1_Overall_Framework.jpg"
+       alt="The schematic representation"
+       style="display:block; width:100%; height:auto;" />
+  <figcaption style="text-align:center;">Fig. 1. The schematic representation of the proposed encoder-decoder-based remote sensing image segmentation network, RSSGLT.</figcaption>
+</figure>
 
 Results:
 -------- 
@@ -25,8 +29,10 @@ Quantitative result on LoveDA dataset:
 |  49.00    |   57.94  |  57.38    |  80.09   | 20.43      | 48.90      | 68.16      | 54.56    | 
 
 
-![Results](figures/2_LoveDA.jpg) 
-Fig. 2. The qualitative prediction results of the RSSGLT on the LoveDA test dataset.
+<p align="center">
+  <img src="figures/2_LoveDA.jpg" alt="The qualitative prediction results" /><br/>
+  Fig. 2. The qualitative prediction results of the RSSGLT on the LoveDA test dataset.
+</p>
 
 Quantitative result on Potsdam dataset:
 
@@ -34,8 +40,11 @@ Quantitative result on Potsdam dataset:
 |-------------------|----------|----------------|--------|---------|--------------|---------|----------| 
 |  94.56            |   97.44  |  88.21         |  89.88 | 96.26   | 93.27        | 92.12   | 87.60    |
 
-![Results](figures/3_Potsdam.jpg) 
-Fig. 3. The qualitative prediction results of the RSSGLT on the Potsdam test dataset.
+
+<p align="center">
+  <img src="figures/3_Potsdam.jpg" alt="The qualitative prediction results" /><br>
+  Fig. 3. The qualitative prediction results of the RSSGLT on the Potsdam test dataset.
+</p>
 
 
 
