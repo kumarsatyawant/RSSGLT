@@ -21,7 +21,7 @@ Network:
 
 Results:
 -------- 
-Quantitative result on LoveDA dataset:
+Quantitative result on LoveDA test dataset:
 
 
 |Background | Building | Road      | Water    | Barren     | Forest     | Agriculture| mIoU (%)    | 
@@ -34,7 +34,7 @@ Quantitative result on LoveDA dataset:
   Fig. 2. The qualitative prediction results of the RSSGLT on the LoveDA test dataset.
 </p>
 
-Quantitative result on Potsdam dataset:
+Quantitative result on Potsdam test dataset:
 
 |Impervious surface | Building | Low vegetation | Tree   | Car     | Mean F1 (%)  | OA (%)  | mIou (%) |
 |-------------------|----------|----------------|--------|---------|--------------|---------|----------| 
